@@ -1,44 +1,44 @@
-Qtumcore Library
+SICashcore Library
 =======
 
-A pure and powerful JavaScript QTUM library.
+A pure and powerful JavaScript SICash library.
 
 
 ## Get Started
 
 ```
-npm install qtumcore-lib
+npm install sicashcore-lib
 ```
 
 ```
-bower install qtumcore-lib
+bower install sicashcore-lib
 ```
 
 ## Security
 
-We're using qtumcore-lib in production, but please use common sense when doing anything related to finances! We take no responsibility for your implementation decisions.
+We're using sicashcore-lib in production, but please use common sense when doing anything related to finances! We take no responsibility for your implementation decisions.
 
 
 
 ## Contributing
 
-Please send pull requests for bug fixes, code optimization, and ideas for improvement. 
+Please send pull requests for bug fixes, code optimization, and ideas for improvement.
 
 ## Building the Browser Bundle
 
-To build a qtumcore-lib full bundle for the browser:
+To build a sicashcore-lib full bundle for the browser:
 
 ```sh
 gulp browser
 ```
 
-This will generate files named `qtumcore-lib.js` and `qtumcore-lib.min.js`.
+This will generate files named `sicashcore-lib.js` and `sicashcore-lib.min.js`.
 
 ## Development & Tests
 
 ```sh
-git clone https://github.com/qtumproject/qtumcore-lib
-cd qtumcore-lib
+git clone https://github.com/SIProjects/sicashcore-lib
+cd sicashcore-lib
 npm install
 ```
 
@@ -52,4 +52,3 @@ You can also run just the Node.js tests with `gulp test:node`, just the browser 
 or create a test coverage report (you can open `coverage/lcov-report/index.html` to visualize it) with `gulp coverage`.
 
 ## License
-

@@ -1,12 +1,12 @@
 {
-  "name": "qtumcore-lib",
-  "main": "./qtumcore-lib.min.js",
+  "name": "sicashcore-lib",
+  "main": "./sicashcore-lib.min.js",
   "version": "0.0.1",
-  "homepage": "http://qtum.org",
+  "homepage": "http://sicash.org",
   "authors": [
-    "QTUM <foundation@qtum.org>"
+    "SICash <support@sicash.network>"
   ],
-  "description": "A pure, powerful core for your qtum project.",
+  "description": "A pure, powerful core for your sicash project.",
   "moduleType": [
     "globals"
   ],
